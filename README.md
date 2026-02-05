@@ -27,6 +27,10 @@ Returns a list of products.
 
 ---
 
+
+```md
+---
+
 ### POST Products
 
 **URL:** `/`  
@@ -42,4 +46,3 @@ Adds a new product.
   "name": "Keyboard",
   "price": 79.99
 }
-
