@@ -15,7 +15,7 @@ Returns a list of products.
   { "id": 2, "name": "Laptop", "price": 1299.99 }
 ]
 
-
+```md
 ## POST Products
 
 **URL:** `/`  
