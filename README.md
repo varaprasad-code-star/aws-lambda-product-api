@@ -14,7 +14,7 @@ Returns a list of products.
   { "id": 1, "name": "iPhone", "price": 999.99 },
   { "id": 2, "name": "Laptop", "price": 1299.99 }
 ]
----
+
 
 ## POST Products
 
